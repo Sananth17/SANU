@@ -1,0 +1,48 @@
+[33mcommit f02a449d331489f1a222975e10b7c5cb76939c7c[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Sananth <sanufeb11@gmail.com>
+Date:   Wed Jan 20 00:22:47 2021 +0530
+
+    second commit in new file
+
+[33mcommit d3b094a115bd7744f20b8ad86198b6794a472db1[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Sananth <sanufeb11@gmail.com>
+Date:   Wed Jan 20 00:19:42 2021 +0530
+
+    modified
+
+[33mcommit 1df9d2e1cc01fa00e9a03948ea555777d8e70cab[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: d6d8ec7 430ce7d
+Author: Sananth <sanufeb11@gmail.com>
+Date:   Wed Jan 20 00:16:01 2021 +0530
+
+    WIP on feature: d6d8ec7 friends commit
+
+[33mcommit 430ce7d594c23ae7c243a0b535c3464066b43616[m
+Author: Sananth <sanufeb11@gmail.com>
+Date:   Wed Jan 20 00:16:01 2021 +0530
+
+    index on feature: d6d8ec7 friends commit
+
+[33mcommit d6d8ec7c0b32ddc5c603653dc359672d56901175[m
+Author: Sananth <sanufeb11@gmail.com>
+Date:   Tue Jan 19 23:58:21 2021 +0530
+
+    friends commit
+
+[33mcommit cd7564a60387238d90f33d52249297870c91772e[m
+Author: Sananth <sanufeb11@gmail.com>
+Date:   Tue Jan 19 23:49:37 2021 +0530
+
+    second file commit
+
+[33mcommit a3adbcfcb2bb9064b61f874dcd5f575bf071ddaa[m
+Author: Sananth <sanufeb11@gmail.com>
+Date:   Tue Jan 19 23:27:10 2021 +0530
+
+    add some msg
+
+[33mcommit 9dee48e68f1ef5fdecd567554c8b839ede4637cb[m
+Author: Sananth <sanufeb11@gmail.com>
+Date:   Tue Jan 19 22:51:33 2021 +0530
+
+    first commit
